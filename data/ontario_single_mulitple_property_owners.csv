@@ -1,0 +1,52 @@
+﻿"Single and multiple residential property owners: Demographic data and value of properties owned 1 2 3 4"
+"Frequency: Occasional"
+"Table: 46-10-0038-01"
+"Release date: 2023-12-08"
+"Geography: Province or territory, Census subdivision, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+""
+""
+
+,"Estimates 4","Number of property owners 5 6 7",,,,"Proportion of owners by number of residential properties owned 5",,,,"Median total assessment value of all the owner's properties 8 9 10",,,,"Median total income of property owner 10 11",,,
+"Geography 2","Number of residential properties owned 12","2018","2019","2020","2021","2018","2019","2020","2021","2018","2019","2020","2021","2018","2019","2020","2021"
+,,"Number",,,,"Percent",,,,"Dollars",,,,,,,
+"Ontario","Total, all number of properties owned categories","..","5,591,560","5,629,715A","5,712,315A","100.0","100.0","100.0A","100.0A","426,000","425,000","423,000A","421,000A","50,000","55,000","55,000A","55,000A"
+,"Single-property owner","..","4,722,525","4,733,530A","4,784,850A","84.9","84.5","84.1A","83.8A","390,000","388,000","388,000A","385,000A","50,000","50,000","55,000A","55,000A"
+,"Multiple-property owner","..","869,035","896,185A","927,465A","15.1","15.5","15.9A","16.2A","836,000","832,000","832,000A","835,000A","60,000","65,000","65,000A","65,000A"
+
+Symbol legend:
+.., not available for a specific reference period
+E, use with caution
+A, data quality: excellent
+B, data quality: very good
+
+
+
+
+Footnotes:
+1,"The universe of this table is restricted to resident owners who are persons occupying a residential property. An owner's geographic location is determined by the location of the occupied property for both single- and multiple-property owners. A residential property refers to all land and structures intended for private dwelling purposes, whether on a permanent or a temporary basis."
+2,"The geographic boundaries used in this table are the 2016 census subdivisions boundaries."
+3,"Previous reference period estimates are subject to revision."
+4,"The Composite Quality Indicator (CQI) shown in this table is created by combining many individual quality indicators, each one representing the quality of different Canadian Housing Statistics Program (CHSP) data processing steps (for example: coding, geocoding, linkage and imputation) and includes the following values: A - Excellent: All domain variables and the variable of interest are of excellent quality. B - Very good: All domain variables and the variable of interest are of very good to excellent quality. C - Good: The quality of some of the domain variables or the variable of interest is considered good while all the other variables are of very good to excellent quality. D - Acceptable: The quality of some of the domain variables or the variable of interest is considered acceptable while all the other variables are of good to excellent quality. E - Use with caution: Several domain variables or the variable of interest are of poor quality. F - Too unreliable to be published. The CQIs are available starting with the reference period of 2020, except for the Northwest Territories where they are available from 2019 reference period."
+5,"Counts undergo random rounding, a process that transforms all raw counts into randomly rounded counts. This reduces the possibility of identifying property owners in the tabulations. All percentages are derived from rounded counts, subtotals and totals may not exactly equal the sum of components due to system rounding."
+6,"The number of property owners estimates are not available for the 2018 reference period."
+7,"The number of owners should be used with caution outside of census metropolitan areas (CMAs) and census agglomerations (CAs), as well as the proportion of owners by geography. This note does not apply to Nunavut."
+8,""Assessment value" refers to the assessed value of the property for the purposes of determining property taxes. It is important to note that the assessed value does not necessarily represent the market value. Given that different provinces and territories have their own assessment periods and durations of the valuation roll, it is difficult to make accurate comparisons of similar properties from one province or territory to another. For properties that are being utilized for both residential and non-residential purposes, only the residential portion's value has been taken into account. The reference years of the assessment values by province or territory are available here: <a href="https://www.statcan.gc.ca/en/statistical-programs/document/5257_D2_V6" rel="external noopener noreferrer" target="_blank">Canadian Housing Statistics Program (CHSP) 2021<span class="wb-inv"> - opens in a new browser window</span></a>."
+9,""Total assessment value" represents the sum of the assessment values of all residential properties owned by an owner within a given province."
+10,"Averages and medians are calculated using values greater than zero for the variables of interest."
+11,""Total income of person" refers to the total income of a property owner, before deductions for income taxes, during the previous year. This income measure is the sum of market income and government transfers. Market income includes employment income, investment income, private retirement income and other income from market sources during the previous year. Government transfers refer to all cash benefits received from federal, provincial, territorial or municipal governments during the previous year."
+13,"Newfoundland and Labrador estimates are not available at the provincial level and for the category "Outside of census metropolitan areas (CMAs) and census agglomerations (CAs)"."
+14,"Estimates by property type in Newfoundland and Labrador are only available in the census subdivision of St. John’s."
+15,"In Newfoundland and Labrador, the methodology for identifying property type has improved in 2021. This resulted in the reclassification of some properties that were "mobile home" to "single-detached house" in the census subdivision of St. John’s."
+16,"In Nova Scotia, the methodology for identifying property type has improved in 2021. This resulted in a break in the series of owner counts between 2020 and 2021 for "row house", "condominium apartment", and "other property types"."
+17,"The breakdown of property types between semi-detached and row houses is not available in Manitoba for the reference period 2020."
+18,"In Manitoba, the owners of 1.8% of residential properties were not identified in 2020. This percentage is reduced to just 0.1% in 2021. As a result, longitudinal comparison of the number of owners between 2020 and 2021 is not recommended."
+19,"Northwest Territories estimates are only available in the census agglomeration of Yellowknife."
+20,"Estimates by property type in Northwest Territories are not available."
+21,"Estimates by property type in Nunavut are not available."
+22,"For Nunavut, the property use indicator is not available, the universe of this table includes all resident owners who are persons. For owners with multiple properties, the geographic location and type of property are from the residential property with the highest assessment value."
+12,"The number of properties owned by the property owner is limited to residential properties that are within a given province."
+
+
+
+"How to cite: Statistics Canada. Table 46-10-0038-01  Single and multiple residential property owners: Demographic data and value of properties owned"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610003801

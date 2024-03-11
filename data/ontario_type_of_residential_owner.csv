@@ -1,0 +1,58 @@
+﻿"Ownership type of residential property owners by residency status and number of properties owned, with the number of buyers and sale price, where available 1 2 3"
+"Frequency: Occasional"
+"Table: 46-10-0030-01"
+"Release date: 2023-12-08"
+"Geography: Province or territory"
+""
+""
+
+,,"Estimates 3","Number of property owners 4 5",,"Median of total assessment value 6 7 8",,"Number of buyers of properties sold in a market sale 5 9 10 11 12",,"Median sale price of properties purchased in a market sale 7 10 11 12 13",
+"Geography","Ownership type 14","Residency status 15","2020","2021","2020","2021","2020","2021","2020","2021"
+,,,"Number",,"Dollars",,"Number",,"Dollars",
+"Ontario 16","Total, all ownership types","Total, all residency status of property owner categories","6,147,630A","6,229,550A","414,000A","412,000B","..","..","..",".."
+,,"Resident","5,960,305A","6,056,615A","416,000A","414,000B","..","..","..",".."
+,,"Non-resident","187,325A","172,935A","349,000B","357,000B","..","..","..",".."
+,"Person","Total, all residency status of property owner categories","6,052,285A","6,131,490A","414,000A","412,000B","..","..","..",".."
+,,"Resident","5,865,795A","5,959,405A","416,000A","414,000B","..","..","..",".."
+,,"Non-resident","186,490A","172,085A","349,000B","357,000B","..","..","..",".."
+,"Business and government","Total, all residency status of property owner categories","95,345A","98,060A","386,000B","387,000C","..","..","..",".."
+,,"Resident","94,510A","97,210A","387,000B","387,000C","..","..","..",".."
+,,"Non-resident","835A","850A","372,000A","369,000B","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+x, suppressed to meet the confidentiality requirements of the Statistics Act
+E, use with caution
+F, too unreliable to be published
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+
+
+Footnotes:
+1,"A "residential property" refers to all land and structures intended for private dwelling purposes, whether on a permanent or a temporary basis. A residential property may have more than one owner."
+2,"Previous reference period estimates are subject to revision."
+3,"The Composite Quality Indicator (CQI) shown in this table is created by combining many individual quality indicators, each one representing the quality of different Canadian Housing Statistics Program (CHSP) data processing steps (for example: coding, geocoding, linkage and imputation) and includes the following values: A - Excellent: All domain variables and the variable of interest are of excellent quality. B - Very good: All domain variables and the variable of interest are of very good to excellent quality. C - Good: The quality of some of the domain variables or the variable of interest is considered good while all the other variables are of very good to excellent quality. D - Acceptable: The quality of some of the domain variables or the variable of interest is considered acceptable while all the other variables are of good to excellent quality. E - Use with caution: Several domain variables or the variable of interest are of poor quality. F - Too unreliable to be published. The CQIs are available starting with the reference period of 2020."
+4,""Property owner" refers to a person or an entity included in the classification of ‘business and government’ (such as corporations, governments, sole proprietorships and partnerships, and other legal types) that has a property title transferred to, recorded in, registered in or otherwise carried in their name. A property may have more than one owner or an owner may have more than one property, therefore the count of owners and properties can differ."
+5,"Counts undergo random rounding, a process that transforms all raw counts into randomly rounded counts. This reduces the possibility of identifying property owners in the tabulations. All percentages are derived from rounded counts, subtotals and totals may not exactly equal the sum of components due to system rounding."
+6,""Total assessment value" represents the sum of the assessment values of all residential properties owned by an owner within a given province."
+7,"Averages and medians are calculated using values greater than zero for the variables of interest."
+8,""Assessment value" refers to the assessed value of the property for the purposes of determining property taxes. It is important to note that the assessed value does not necessarily represent the market value. Given that different provinces and territories have their own assessment periods and durations of the valuation roll, it is difficult to make accurate comparisons of similar properties from one province or territory to another. For properties that are being utilized for both residential and non-residential purposes, only the residential portion's value has been taken into account. The reference years of the assessment values by province or territory are available here: <a href="https://www.statcan.gc.ca/en/statistical-programs/document/5257_D2_V6" rel="external noopener noreferrer" target="_blank">Canadian Housing Statistics Program (CHSP) 2021<span class="wb-inv"> - opens in a new browser window</span></a>."
+9,""Property buyer" refers to a residential property owner that has property title transferred to, recorded in, registered in or otherwise carried in their name after the sale of a property during the reference period."
+10,""Market sale" refers to an arm’s length transaction where all parties act independently with no influence over the other."
+11,"Estimates of the number of buyers and sale prices are only available for the resident status category "Resident", the number of residential properties owned category "Total, all number of properties owned categories", and for the following geographic regions: Nova Scotia, New Brunswick, Manitoba, British Columbia and Yukon."
+12,"Buyers are owners in the reference year who purchased a property from January 1 to December 31 of the previous reference year."
+13,""Sale price" refers to the monetary value of a transaction where goods or services were sold."
+16,"In Ontario, the non-residency rate decreased between 2020 and 2021. This is the result of improved linkage and higher data quality. Caution should be taken, as this decrease cannot be interpreted as a "real trend"."
+17,"In Manitoba, the owners of 1.8% of residential properties were not identified in 2020. This percentage is reduced to just 0.1% in 2021. As a result, changes in the estimates of the number of owners cannot be interpreted as a “real trend” in this table."
+18,"In Alberta, the owners of 0.9% of residential properties have not been identified. Therefore, the estimates of the number of owners in this table may be underestimated."
+14,""Ownership type" refers to whether an owner of a residential property is a person or an entity included in the classification of ‘business and government’ (such as corporations, governments, sole proprietorships and partnerships, and other legal types). In the context of residential property, assignment of ownership type is as follows: A property is considered owned by a person if all owners of a property are persons in the ordinary sense of the word. Conversely, properties are deemed owned by a ‘business and government’ if all or some owners are not persons."
+15,"The residency status of the owner is assigned based on whether the owner is a person or an entity included in the classification of ‘business and government’ (such as corporations, governments, sole proprietorships and partnerships, and other legal types). A person is considered a resident if his or her primary dwelling is in the economic territory of Canada. Conversely, a person is considered a non-resident if his or her primary dwelling is outside the economic territory of Canada. An entity classified as ‘business and government’ is considered a resident if it engages in economic activity from a location in the economic territory of Canada. Conversely, it is considered a non-resident if it does not engage in an economic activity from a location in the economic territory of Canada."
+
+
+
+"How to cite: Statistics Canada. Table 46-10-0030-01  Ownership type of residential property owners by residency status and number of properties owned, with the number of buyers and sale price, where available"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610003001
